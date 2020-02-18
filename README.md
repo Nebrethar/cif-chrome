@@ -8,7 +8,7 @@ TBD
 
 ## Installation
 
-Please see the [Google Developer Guide](https://developer.chrome.com/extensions/getstarted#manifest) for instructions on installing CIF
+Please see the [Google Developer Guide](https://developer.chrome.com/extensions/getstarted#manifest) for instructions on installing this browser extension.
 
 ## Background and Developers
 
